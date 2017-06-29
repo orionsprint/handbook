@@ -24,7 +24,7 @@ Keeping the company moving fast and constantly improving needs everyone to help 
 * [Equal Opportunity Policy](/policies/equality.md)
 * [Complaint/Grievance Policy](/policies/grievance.md)
 * [Code of Conduct](/policies/conduct.md)
-* [Adoption Leave Policy](/polcies/adoption-leave.md)
+* [Adoption Leave Policy](/policies/adoption-leave.md)
 * Drug and Alcohol Policy
 * Employee Privacy
 * [Disciplinary Rules & Procedures](/policies/disciplinary.md)
