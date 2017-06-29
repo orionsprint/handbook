@@ -70,4 +70,4 @@ If you hear the Fire Alarm operating:
 ### Exit routes from 1st Floor, 24/26 Lever Street
 Please familiarise yourselves with these exit routes, following the fire exit signs:
 
-Exit via reception, down the main stairwell and either out through the emergency exit door at the back of the building or through the main doors at the front of the building; or
+* Exit via reception, down the main stairwell and either out through the emergency exit door at the back of the building or through the main doors at the front of the building;

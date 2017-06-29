@@ -22,7 +22,7 @@ Keeping the company moving fast and constantly improving needs everyone to help 
 ## Company Policies
 * [Health & Safety Policy](policies/health-and-safety.md)
 * Equal Opportunity Policy
-* Complaint/Grievance Policy
+* [Complaint/Grievance Policy](policies/grievance.md)
 * Code of Conduct
 * Drug and Alcohol Policy
 * Employee Privacy
