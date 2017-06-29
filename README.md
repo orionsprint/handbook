@@ -12,7 +12,7 @@ Keeping the company moving fast and constantly improving needs everyone to help 
 * What to do if your device is lost or stolen
 
 ## Company
-* Our goals
+* Our mission & values
 * 'OKR's and why we use them
 
 ## Welfare
@@ -20,8 +20,10 @@ Keeping the company moving fast and constantly improving needs everyone to help 
 * Parental Leave
 
 ## Company Policies
+* [Health & Safety Policy](/policies/health-and-safety)
 * Equal Opportunity Policy
-* Complaint Policy
+* Complaint/Grievance Policy
 * Code of Conduct
 * Drug and Alcohol Policy
 * Employee Privacy
+* Disciplinary Rules & Procedures
