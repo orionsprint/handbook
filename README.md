@@ -20,9 +20,9 @@ Keeping the company moving fast and constantly improving needs everyone to help 
 * Parental Leave
 
 ## Company Policies
-* [Health & Safety Policy](policies/health-and-safety.md)
-* Equal Opportunity Policy
-* [Complaint/Grievance Policy](policies/grievance.md)
+* [Health & Safety Policy](/policies/health-and-safety.md)
+* [Equal Opportunity Policy](/policies/equality.md)
+* [Complaint/Grievance Policy](/policies/grievance.md)
 * Code of Conduct
 * Drug and Alcohol Policy
 * Employee Privacy
