@@ -1,3 +1,8 @@
+# **UNDER CONSTRUCTION**
+This document is still in development - please keep using our oldschool, internal one until this one is ship shape - Ali
+
+---------------
+
 # Telcom Employee Handbook
 This handbook is designed to our current & future employees all the information they need about working at Telcom.
 
