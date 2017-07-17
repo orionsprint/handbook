@@ -7,7 +7,7 @@ This document is still in development - please keep using our oldschool, interna
 This handbook is designed to our current & future employees all the information they need about working at Telcom.
 
 ## Contributing to the Handbook
-Keeping the company moving fast and constantly improving needs everyone to help out - our handbook is no different. Whether you've got a question or there is something you think needs to be changed or improved, help us by either [raising an issue](https://github.com/telcomuk/handbook/issues) (for the geeks) or emailing [hr@telcom.io](mailto:hr@telcom.io).
+Keeping the company moving fast and constantly improving needs everyone to help out - our handbook is no different. Whether you've got a question or there is something you think needs to be changed or improved, help us by either [raising an issue](https://github.com/telcom/handbook/issues) (for the geeks) or emailing [hr@telcom.io](mailto:hr@telcom.io).
 
 # Contents
 
